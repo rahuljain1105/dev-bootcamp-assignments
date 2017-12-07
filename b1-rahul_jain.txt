@@ -1,0 +1,5 @@
+name: rahul jain
+email: rahul.jain.eee17@itbhu.ac.in
+phone: 9792858375
+branch: EEE
+gender: MALE
